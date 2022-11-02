@@ -1,0 +1,4 @@
+exam1 = int(input("Enter Your Note :"))
+finalExam = int(input("Enter Final Your Note :"))
+average = (exam1+finalExam)/2
+print(f"Exam 1 : {exam1}\n Final : {finalExam}\n Average : {average}")
